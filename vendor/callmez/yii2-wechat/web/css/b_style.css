@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+.navbar-header
+{
+	float:right;
+	}
+.tabs-nav
+{
+	list-style:none;
+	}
+a.tabs-nav
+{
+	width:100%;
+	height:45px;
+	line-height:45px;
+	float:left;
+	border-bottom:1px solid #f2f2f2;
+	text-align:center;
+	color:#000;
+	font-weight:700;
+	cursor:pointer;
+	background:#f9f9f9;
+	text-decoration:none;
+	}
+a.tabs-nav.active
+{
+	width:100%;
+	height:45px;
+	line-height:45px;
+	float:left;
+	border-bottom:2px solid #3e63bc;
+	text-align:center;
+	color:#000;
+	font-weight:700;
+	cursor:pointer;
+	background:#f9f9f9;
+	text-decoration:none;
+	}
+.mis_txt
+{
+	padding-top:110px;
+	text-align:center;
+	position:relative;
+	font-size:14px;
+	color:#999;
+	}
+.btn_div
+{
+	margin:50px auto;
+	text-align:center;
+	}
+.btn_sub
+{
+	width:100%;
+	line-height:42px;
+	background:#3e63bc;
+	border:1px solid #3e54a7;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	display:inline-block;
+	color:#fff;
+	outline:none;
+	}
+.btn_sub:hover
+{
+	color:#fff;
+	text-decoration:none;
+	}
+.color-red
+{
+	color:#ff0000;
+	}
+.car_title
+{
+	padding:10px;
+	}
+.lisence_title
+{
+	margin-right:5px;
+	}
+.list-div
+{
+	border-bottom:1px solid #999;
+	}
+.foot
+{
+	width: 100%;
+	padding:5px 5%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    border-top: 1px solid #ef5350;
+	}
+a.btn-download
+{
+	width:100%;
+	line-height:42px;
+	text-align:center;
+	background:#ef5350;
+	border:1px solid #ef5350;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	display:inline-block;
+	color:#fff;
+	text-decoration:none;
+	outline:none;
+	}
